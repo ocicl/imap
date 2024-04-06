@@ -1,0 +1,9 @@
+* imap
+
+POP, IMAP and SMTP client support for Common Lisp
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/franzinc/imap.git |
+| commit  | 91beba2                                  |
+| systems | imap                                     |
+|---------+------------------------------------------|
